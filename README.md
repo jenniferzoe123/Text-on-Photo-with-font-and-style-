@@ -19,6 +19,19 @@ you consent to the delivery of these advertisements and any data collected by Go
 Privacy Policy of AdMob.
 * <a href="https://support.google.com/admob/answer/6128543?hl=en">Admob Policies</a> (click to see)
 
+<b>Permissions</b>
+
+The following is a complete listing and description of what functions on the Device are
+accessed and / or modified by the Application.
+
+
+CAMERA:
+Allow Application to capture photo from camera.
+
+WRITE EXTERNAL STORAGE:
+Allow application to write to external storage.
+
+
 <b>Children’s Privacy</b>
 
 This App is for a general audience. This app do not address anyone under the age of 13. I do not collect any personally information from children under 13.
